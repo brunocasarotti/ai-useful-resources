@@ -8,3 +8,4 @@ A curated list of AI material including some extra topics
 * [Spurious correlations](http://www.tylervigen.com/spurious-correlations)
 * [Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
 * [A Primer on Using LaTeX in Jupyter Notebooks](http://data-blog.udacity.com/posts/2016/10/latex-primer/)
+* [visual introduction to ML](http://www.r2d3.us/uma-introducao-visual-ao-aprendizado-de-maquina-1/)
